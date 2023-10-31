@@ -7,8 +7,8 @@ int main()
 {
     int x, y, z, a, b , c ;
 
-    // Ввод исходных данных
-    cout << "Input x" << endl;
+    // Г‚ГўГ®Г¤ ГЁГ±ГµГ®Г¤Г­Г»Гµ Г¤Г Г­Г­Г»Гµ
+    cout << "Input x" << endl;dddddszvgpo
     cin >> x;
     cout << "Input y" << endl;
     cin>>y;
@@ -17,7 +17,7 @@ int main()
         }
     }
 
-    // Обработка данных
+    // ГЋГЎГ°Г ГЎГ®ГІГЄГ  Г¤Г Г­Г­Г»Гµ
     a=(2*cos(x-3.14/6);
     b=(1+(pow(z,2) z/3.14)-(pow z/5));
     c=(a*b)/e+ pow sin(y);
@@ -25,7 +25,7 @@ int main()
         }
     }
 
-    // Вывод результата
+    // Г‚Г»ГўГ®Г¤ Г°ГҐГ§ГіГ«ГјГІГ ГІГ 
     cout<<endl<<"<<endl;
     for (i = 0; i < n; i++)
     {
